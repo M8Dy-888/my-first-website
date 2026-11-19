@@ -128,3 +128,18 @@ footer {
         padding: 70px 20px;
     }
 }
+#color-button {
+    background-color: #7c3aed;
+    color: white;
+    border: none;
+    padding: 14px 24px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 15px;
+    transition: background-color 0.3s;
+}
+
+#color-button:hover {
+    background-color: #6d28d9;
+}
